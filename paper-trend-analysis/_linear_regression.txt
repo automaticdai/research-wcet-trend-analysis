@@ -1,0 +1,158 @@
+Dataset 1   ---------------------------------------------------------------- 
+
+Summary:
+valid: 0/121, 0.00
+invalid: 121/121, 1.00
+
+correct: -/121, 0.00
+not correct: -/121, 0.00
+
+true positive: 0/121, 0.00
+false positive: -/121, 0.00
+true negative: 0/121, 0.00
+false negative: 0/121, 0.00
+
+Dataset 101 ----------------------------------------------------------------
+
+Summary:
+valid: 47/121, 0.39
+invalid: 74/121, 0.61
+
+correct: 121/121, 1.00
+not correct: 0/121, 0.00
+
+true positive: 0/121, 0.00
+false positive: 0/121, 0.00
+true negative: 121/121, 1.00
+false negative: 0/121, 0.00
+
+Dataset 150 ----------------------------------------------------------------
+
+Summary:
+valid: 25/121, 0.21
+invalid: 96/121, 0.79
+
+correct: 121/121, 1.00
+not correct: 0/121, 0.00
+
+true positive: 0/121, 0.00
+false positive: 0/121, 0.00
+true negative: 121/121, 1.00
+false negative: 0/121, 0.00
+
+Dataset 201 ----------------------------------------------------------------
+
+Summary:
+valid: 27/121, 0.22
+invalid: 94/121, 0.78
+
+correct: 121/121, 1.00
+not correct: 0/121, 0.00
+
+true positive: 0/121, 0.00
+false positive: 0/121, 0.00
+true negative: 121/121, 1.00
+false negative: 0/121, 0.00
+
+Dataset 250 ----------------------------------------------------------------
+
+Summary:
+valid: 37/121, 0.31
+invalid: 84/121, 0.69
+
+correct: 121/121, 1.00
+not correct: 0/121, 0.00
+
+true positive: 15/121, 0.12
+false positive: 0/121, 0.00
+true negative: 106/121, 0.88
+false negative: 0/121, 0.00
+
+Dataset 301 ----------------------------------------------------------------
+
+Summary:
+valid: 63/121, 0.52
+invalid: 58/121, 0.48
+
+correct: 114/121, 0.94
+not correct: 7/121, 0.06
+
+true positive: 35/121, 0.29
+false positive: 0/121, 0.00
+true negative: 82/121, 0.68
+false negative: 4/121, 0.03
+
+Dataset 350 ----------------------------------------------------------------
+
+Summary:
+valid: 29/121, 0.24
+invalid: 92/121, 0.76
+
+correct: 82/121, 0.68
+not correct: 39/121, 0.32
+
+true positive: 34/121, 0.28
+false positive: 0/121, 0.00
+true negative: 66/121, 0.55
+false negative: 21/121, 0.17
+
+Dataset 401 ----------------------------------------------------------------
+
+Summary:
+valid: 63/121, 0.52
+invalid: 58/121, 0.48
+
+correct: 114/121, 0.94
+not correct: 7/121, 0.06
+
+true positive: 35/121, 0.29
+false positive: 0/121, 0.00
+true negative: 82/121, 0.68
+false negative: 4/121, 0.03
+
+Dataset 501 ----------------------------------------------------------------
+
+Summary:
+valid: 42/121, 0.35
+invalid: 79/121, 0.65
+
+correct: 62/121, 0.51
+not correct: 59/121, 0.49
+
+true positive: 61/121, 0.50
+false positive: 1/121, 0.01
+true negative: 24/121, 0.20
+false negative: 35/121, 0.29
+
+Dataset 601 ----------------------------------------------------------------
+
+Summary:
+valid: 45/121, 0.37
+invalid: 76/121, 0.63
+
+correct: 51/121, 0.42
+not correct: 70/121, 0.58
+
+true positive: 97/121, 0.80
+false positive: 0/121, 0.00
+true negative: 6/121, 0.05
+false negative: 18/121, 0.15
+
+----------------------------------------------------------------------------
+
+All:
+valid: 378/1210, 0.31
+invalid: 832/1210, 0.68
+
+correct: 907/1089, 0.83
+not correct: 182/1089, 0.16 
+
+true positive: 277/1089, 0.25
+false positive: 1/1089, <0.01
+true negative: 729/1089, 0.67
+false negative: 82/1089, 0.08
+
+Normalized:
+true positive: 277/360, 0.77
+false positive: 1/360, <0.01
+false negative: 82/360, 0.23
